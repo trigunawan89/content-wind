@@ -3,7 +3,7 @@ export default defineAppConfig({
   cover: '/cover.jpg',
   socials: {
     twitter: 'Not_trigun',
-    github: 'trigunawan89/kodeme.io',
+    github: 'trigunawan89/content-wind',
     mastodon: ''
   }
 })
